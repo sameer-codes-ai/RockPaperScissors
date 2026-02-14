@@ -18,7 +18,7 @@ A sleek, responsive Rock Paper Scissors game built with Vanilla JavaScript. This
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/sameer-codes-ai/rock-paper-scissors.git](https://github.com/sameer-codes-ai/rock-paper-scissors.git)
+    git clone https://github.com/sameer-codes-ai/RockPaperScissors
 
  * Open rockPaperScissors.html in any modern web browser.
 🧠 What I Learned
