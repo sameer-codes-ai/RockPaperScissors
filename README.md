@@ -21,7 +21,7 @@ A sleek, responsive Rock Paper Scissors game built with Vanilla JavaScript. This
     git clone https://github.com/sameer-codes-ai/RockPaperScissors
 
  * Open rockPaperScissors.html in any modern web browser.
-🧠 What I Learned
+ * 🧠 What I Learned
  * Implementing game state logic in JavaScript.
  * Handling JSON data to store and retrieve objects from localStorage.
  * Using template literals to dynamically update HTML content.
