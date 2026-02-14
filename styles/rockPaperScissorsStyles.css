@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(46, 43, 40);
+    
+}
+header,footer{
+    margin: 0;
+    padding: 2%;
+    background-color: rgb(12, 12, 12);
+    color: white;
+    text-align: center;
+}
+.player-move img{
+    height: 100px;
+}
+.player-move{
+    background-color: transparent;
+    margin: 15px 20px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.player-move:active{
+    border: none;
+}
+.compute img{
+    height: 50px;
+}
+.compute{
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+}
+.outcome{
+    color: white;
+    font-size: 20px;
+}
+.result-display{
+    color: white;
+    font-size: 25px;
+}
+.reset{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: 2px solid rgb(234, 222, 222);
+    border-radius: 20px;
+}
+.reset:active{
+    border: none;
+    padding: 10px 20px;
+    margin: 12px;
+}
